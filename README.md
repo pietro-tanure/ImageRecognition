@@ -1,2 +1,2 @@
 # ImageRecognition
-Image Recognition methods studied during course at ENSTA
+Image recognition methods studied during computer vision course at ENSTA
